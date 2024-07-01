@@ -66,3 +66,17 @@ This is a Quiz Application built using Dart which tests the knowledge of Data St
 5. **Review** the summary of questions and answers.
 
 
+## Flutter Concepts Used:
+
+1. **State Management**: Utilizes `StatefulWidget` and `setState` for managing dynamic UI changes.
+
+2. **Navigation**: Implements dynamic transitions between screens for seamless user experience.
+
+3. **Custom Widgets**: Encapsulates various UI components into reusable custom widgets for modularity.
+
+4. **Theming and Styling**: Applies custom styles using `BoxDecoration`, `LinearGradient`, and integrates typography with `Google Fonts`.
+
+5. **Asset Management**: Manages assets such as images and developer-imported fonts to enhance visual and functional aspects of the app.
+
+
+
