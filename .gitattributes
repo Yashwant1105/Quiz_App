@@ -1,7 +1,5 @@
-# Specify Dart as the main language
 *.dart linguist-language=Dart
 
-# Exclude documentation and images from language statistics
 *.md linguist-documentation
 *.jpg linguist-vendored
 *.png linguist-vendored
