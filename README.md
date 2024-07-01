@@ -59,7 +59,7 @@ This is a Quiz Application built using Dart which tests the knowledge of Data St
 
 ## ***How to Use***
 
-1. **Start the application** by running the `main.dart` file.
+1. **Start the application** by running the [main.dart](https://github.com/Yashwant1105/Quiz_App/blob/main/lib/main.dart) file.
 2. **Navigate** through the home page and click on the Start Quiz option.
 3. **Answer** the questions presented.
 4. **Submit** your answers to view the results.
