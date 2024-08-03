@@ -1,6 +1,7 @@
 *.dart linguist-language=Dart
-*.c++ linguist-detectable=false
+*.cpp linguist-detectable=false
 
 *.md linguist-documentation
 *.jpg linguist-vendored
 *.png linguist-vendored
+*.cpp linguist-vendored
