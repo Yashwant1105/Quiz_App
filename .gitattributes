@@ -5,5 +5,5 @@
 *.jpg linguist-vendored
 *.png linguist-vendored
 *.cpp linguist-vendored
-CMakeLists.txt linguist-vendored
+
 *.cmake linguist-vendored
